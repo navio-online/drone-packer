@@ -1,4 +1,4 @@
-FROM salnikov/drone-plugin-base:v1.0.2
+FROM salnikov/drone-plugin-base:1.0.2
 
 LABEL maintainer="Peter Salnikov peter@salnikov.cc" \
   org.label-schema.name="Drone.io plugin with Packer.io tool" \
